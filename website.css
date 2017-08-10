@@ -145,3 +145,10 @@ body {font-family: Verdana,sans-serif;margin:0}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+
+/* slideshow pictures */
+span.slideshow-container {
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
