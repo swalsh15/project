@@ -142,3 +142,14 @@ body {font-family: Verdana,sans-serif;margin:0}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+<<<<<<< HEAD
+=======
+
+/* slideshow pictures */
+.slideshow-container {
+    width: 600px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+>>>>>>> ddf11defa2c68b0dda3b88096cae8ba4c7e7e858
